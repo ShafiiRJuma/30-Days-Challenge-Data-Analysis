@@ -26,7 +26,7 @@ Renamed columns from short-form labels to full descriptions for clarity and cons
 #### 3. Handling Blank Fields
 I examined core columns critical to my objectives, such as Crime Description, Victim Age, Sex, Descent, Area, Street Address, and Time Occurred.<br>
 
-[Blank fields](https://github.com/ShafiiRJuma/30-Days-Challenge-Data-Analysis/blob/main/DayOneScreenshots/DayOneBlankFields.jpg)
+![Blank fields](https://github.com/ShafiiRJuma/30-Days-Challenge-Data-Analysis/blob/main/DayOneScreenshots/DayOneBlankFields.jpg)
 
 **Procedure:** Filtered columns to view blank cells.<br>
 **Decision:** For columns like Victim Sex and Descent, where blanks would impact analysis, I filled blanks with “Not Specified” to retain the data for analysis without compromising completeness.
@@ -34,7 +34,7 @@ I examined core columns critical to my objectives, such as Crime Description, Vi
 #### 4. Addressing Outliers
 Detected and addressed outliers in the Victim Age column, where negative values indicated erroneous data.<br>
 
-[Age Outliers](https://github.com/ShafiiRJuma/30-Days-Challenge-Data-Analysis/blob/main/DayOneScreenshots/DayOneFilterOutlier.jpg)
+![Age Outliers](https://github.com/ShafiiRJuma/30-Days-Challenge-Data-Analysis/blob/main/DayOneScreenshots/DayOneFilterOutlier.jpg)
 
 **Procedure:** Filtered ages below 0.<br>
 **Decision:** Removed rows with negative ages to maintain data integrity, especially important when calculating age-based trends.
@@ -42,14 +42,14 @@ Detected and addressed outliers in the Victim Age column, where negative values 
 #### 5. Calculating Time Difference
 Created a new column to calculate the time lag (in days) between the occurrence and reporting of each crime, a critical metric for understanding reporting behavior across different locations.<br>
 
-[Time Lag Column](https://github.com/ShafiiRJuma/30-Days-Challenge-Data-Analysis/blob/main/DayOneScreenshots/DayOneTimeLag.jpg)
+![Time Lag Column](https://github.com/ShafiiRJuma/30-Days-Challenge-Data-Analysis/blob/main/DayOneScreenshots/DayOneTimeLag.jpg)
 
 **Procedure:** Inserted a formula to calculate the difference between Date Reported and Date Occurred.
 
 #### 6. Decoding Victim Descent Codes
 Translated coded ethnicity values (e.g., “B” for Black, “C” for Chinese) into full names for better readability during analysis.<br>
 
-[Victim Descent](https://github.com/ShafiiRJuma/30-Days-Challenge-Data-Analysis/blob/main/DayOneScreenshots/DayOneVictimDescent.jpg)
+![Victim Descent](https://github.com/ShafiiRJuma/30-Days-Challenge-Data-Analysis/blob/main/DayOneScreenshots/DayOneVictimDescent.jpg)
 
 **Procedure:** Used VLOOKUP with a reference table mapping each code to its corresponding ethnicity name.
 
@@ -71,7 +71,7 @@ Standardized text formats across all columns (e.g., proper case for text fields)
 ### Reflection
 With these data cleaning steps completed, the dataset is ready for analysis. Today’s focus on thorough data preparation has set the foundation for my upcoming exploration and visualization tasks in this challenge.
 
-[Final Look](https://github.com/ShafiiRJuma/30-Days-Challenge-Data-Analysis/blob/main/DayOneScreenshots/FinalLook.jpg)
+![Final Look](https://github.com/ShafiiRJuma/30-Days-Challenge-Data-Analysis/blob/main/DayOneScreenshots/FinalLook.jpg)
 
 ### Lesson Learned:
 During data import, I mistakenly removed trailing zeros from the Time Occurred column, which altered the data's accuracy. After identifying the error, I reloaded the dataset and corrected this step, 
