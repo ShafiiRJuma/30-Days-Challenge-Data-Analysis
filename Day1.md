@@ -1,7 +1,7 @@
-Date: 2024-11-07<br>
-Tool: Microsoft Excel<br>
-Dataset: Crime Data from 2020 to Present<br>
-Dataset Description: This dataset contains records of reported crimes in Los Angeles from 2020 onward, encompassing 28 columns and 525,963 rows. It’s a large dataset that presents an excellent opportunity for data cleaning.
+**Date:** 2024-11-07<br>
+**Tool:** Microsoft Excel<br>
+**Dataset:** Crime Data from 2020 to Present<br>
+**Dataset Description:** This dataset contains records of reported crimes in Los Angeles from 2020 onward, encompassing 28 columns and 525,963 rows. It’s a large dataset that presents an excellent opportunity for data cleaning.
 
 ### Project Overview:
 In data analysis, every dataset must have a defined purpose to guide the analysis process and support confident decision-making. For this project, my primary goal is to master data cleaning techniques using Microsoft Excel. However, I’ve also set specific objectives to make this analysis meaningful.
@@ -10,7 +10,7 @@ In data analysis, every dataset must have a defined purpose to guide the analysi
 
 Crime Frequency Analysis by Location and Time – Identify high-crime areas and determine times with elevated crime rates to assess risk patterns.
 Demographic Analysis of Victimization – Examine if specific age groups, genders, or ethnicities are disproportionately affected by particular crimes, which can help inform targeted community outreach and support services.<br>
-Note: These are the overall objectives for the analysis. Today's focus is on preparing a clean and organized dataset for further exploration, EDA, and visualization in later stages.
+**Note:** These are the overall objectives for the analysis. Today's focus is on preparing a clean and organized dataset for further exploration, EDA, and visualization in later stages.
 
 ![Before and After](https://github.com/ShafiiRJuma/30-Days-Challenge-Data-Analysis/blob/main/BeforeAndAfter1.jpg)
 
@@ -23,33 +23,33 @@ Renamed columns from short-form labels to full descriptions for clarity and cons
 
 #### 3. Handling Blank Fields
 I examined core columns critical to my objectives, such as Crime Description, Victim Age, Sex, Descent, Area, Street Address, and Time Occurred.<br>
-Procedure: Filtered columns to view blank cells.<br>
-Decision: For columns like Victim Sex and Descent, where blanks would impact analysis, I filled blanks with “Not Specified” to retain the data for analysis without compromising completeness.
+**Procedure:** Filtered columns to view blank cells.<br>
+**Decision:** For columns like Victim Sex and Descent, where blanks would impact analysis, I filled blanks with “Not Specified” to retain the data for analysis without compromising completeness.
 
 #### 4. Addressing Outliers
 Detected and addressed outliers in the Victim Age column, where negative values indicated erroneous data.<br>
-Procedure: Filtered ages below 0.<br>
-Decision: Removed rows with negative ages to maintain data integrity, especially important when calculating age-based trends.
+**Procedure:** Filtered ages below 0.<br>
+**Decision:** Removed rows with negative ages to maintain data integrity, especially important when calculating age-based trends.
 
 #### 5. Calculating Time Difference
 Created a new column to calculate the time lag (in days) between the occurrence and reporting of each crime, a critical metric for understanding reporting behavior across different locations.<br>
-Procedure: Inserted a formula to calculate the difference between Date Reported and Date Occurred.
+**Procedure:** Inserted a formula to calculate the difference between Date Reported and Date Occurred.
 
 #### 6. Decoding Victim Descent Codes
 Translated coded ethnicity values (e.g., “B” for Black, “C” for Chinese) into full names for better readability during analysis.<br>
-Procedure: Used VLOOKUP with a reference table mapping each code to its corresponding ethnicity name.
+**Procedure:** Used VLOOKUP with a reference table mapping each code to its corresponding ethnicity name.
 
 #### 7. Formatting Time Data
 Ensured the “Time Occurred” column was consistently formatted as numbers, aligning data entries to facilitate time-based analysis.<br>
-Procedure: Converted the entire column to the correct number format.
+**Procedure:** Converted the entire column to the correct number format.
 
 #### 8. Removing Unnecessary Columns
 Removed columns that would not contribute to my objectives, reducing the dataset from 28 to 14 columns for a more streamlined analysis.<br>
-Columns Removed: Crime Code (redundant due to Crime Description), Premis Code, Crime Codes 1-4, Status, Status Description, Area Code, and Mocodes.
+**Columns Removed:** Crime Code (redundant due to Crime Description), Premis Code, Crime Codes 1-4, Status, Status Description, Area Code, and Mocodes.
 
 #### 9. Trimming Excess White Space
 Cleaned up the Street Address column by removing unnecessary spaces between words, enhancing readability.<br>
-Procedure: Split and trimmed each component of the address, then concatenated without extra spaces.
+**Procedure:** Split and trimmed each component of the address, then concatenated without extra spaces.
 
 #### 10. Consistent Text Formatting
 Standardized text formats across all columns (e.g., proper case for text fields) and ensured date and numeric formats were consistent for easier analysis. Adjusted date formats to yyyy-mm-dd for uniformity.
