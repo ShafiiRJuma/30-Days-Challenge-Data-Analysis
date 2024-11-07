@@ -11,7 +11,7 @@ Key Objectives:
 Crime Frequency Analysis by Location and Time – Identify high-crime areas and determine times with elevated crime rates to assess risk patterns.
 Demographic Analysis of Victimization – Examine if specific age groups, genders, or ethnicities are disproportionately affected by particular crimes, which can help inform targeted community outreach and support services.
 Note: These are the overall objectives for the analysis. Today's focus is on preparing a clean and organized dataset for further exploration, EDA, and visualization in later stages.
-
+![Before and After](
 Cleaning Process:
 1. Dataset Backup
 Created a copy of the original dataset to safeguard against accidental data loss during the cleaning process.
