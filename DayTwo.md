@@ -34,7 +34,7 @@ After downloading the data, I began the cleaning process to ensure the dataset w
 **Conclusion:**  
 With this cleaning process, I created a reliable, ready-for-analysis dataset. Tomorrow’s challenge will involve scraping data from multiple job listing sites, merging the information, and tackling the complexities that come with unifying data from various sources.
 
-[Before and After](https://github.com/ShafiiRJuma/30-Days-Challenge-Data-Analysis/blob/main/DayTwoScreenshots/Before.jpg)
+![Before and After](https://github.com/ShafiiRJuma/30-Days-Challenge-Data-Analysis/blob/main/DayTwoScreenshots/Before.jpg)
 
 **Learning Outcome:**  
 Today, I gained hands-on experience in web scraping using ParseHub and applied essential data cleaning techniques in Microsoft Excel—valuable steps for any data analyst in training.  
