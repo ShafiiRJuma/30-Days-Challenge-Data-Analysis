@@ -1,5 +1,3 @@
-### Day 2 Challenge Log
-
 **Day:** 2  
 **Date:** 2024-11-08  
 **Tools:** ParseHub, Microsoft Excel  
@@ -18,8 +16,12 @@ ParseHub offers an intuitive interface with built-in tutorials that make scrapin
 - I set up a project using the target job site’s URL and configured ParseHub to capture specific data: Job Title, Employer, Location, and Job Requirements for each position.  
 - The tool then scraped the site’s nine pages of listings (totaling 83 open positions), extracting and saving the information to an XLS file.
 
+![ParseHub Dashboard](https://github.com/ShafiiRJuma/30-Days-Challenge-Data-Analysis/blob/main/DayTwoScreenshots/ParseHub1.jpg)
+
 **2. Data Cleaning with Excel**  
 After downloading the data, I began the cleaning process to ensure the dataset was accurate and complete for future analysis.
+
+![Raw datase](https://github.com/ShafiiRJuma/30-Days-Challenge-Data-Analysis/blob/main/DayTwoScreenshots/JDRaw.jpg)
 
 - **Create a Backup:** To protect the original data, I created a copy to work from in case any errors occurred during cleaning.  
 - **Consolidate Columns:** Some of the scraped data ended up split across multiple columns. I combined fragmented job titles, locations, and other fields into their respective primary columns for consistency.  
@@ -31,6 +33,8 @@ After downloading the data, I began the cleaning process to ensure the dataset w
 
 **Conclusion:**  
 With this cleaning process, I created a reliable, ready-for-analysis dataset. Tomorrow’s challenge will involve scraping data from multiple job listing sites, merging the information, and tackling the complexities that come with unifying data from various sources.
+
+[Before and After](https://github.com/ShafiiRJuma/30-Days-Challenge-Data-Analysis/blob/main/DayTwoScreenshots/Before.jpg)
 
 **Learning Outcome:**  
 Today, I gained hands-on experience in web scraping using ParseHub and applied essential data cleaning techniques in Microsoft Excel—valuable steps for any data analyst in training.  
