@@ -28,7 +28,7 @@ This dataset covers the age-adjusted death rates for the 10 leading causes of de
 4. **Analysis with Pivot Tables**  
    - **Leading Causes of Death in the United States**: I placed "Cause Name" in the rows and "Deaths" in the values, automatically calculating the total deaths by cause. This revealed that heart disease has consistently been the leading cause of death across the dataset.
 
-   ![Leading Cause of Death in the United States](https://github.com/ShafiiRJuma/30-Days-Challenge-Data-Analysis/blob/main/DayThreeScreenshots/DRPVCausesOverAll.jpg) 
+   ![Leading Cause of Death in the United States](https://github.com/ShafiiRJuma/30-Days-Challenge-Data-Analysis/blob/main/DayThreeScreenshots/DRPVLeadingCausesOverAll.jpg) 
 
    - **Leading Causes of Death by State**: To explore this, I added "State," "Cause Name," and "Deaths" in the fields, allowing me to view the top causes of death for each state.
 
