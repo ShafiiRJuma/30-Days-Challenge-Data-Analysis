@@ -32,11 +32,11 @@ This dataset covers the age-adjusted death rates for the 10 leading causes of de
 
    - **Leading Causes of Death by State**: To explore this, I added "State," "Cause Name," and "Deaths" in the fields, allowing me to view the top causes of death for each state.
 
-![Leading Causes of Death per State](https://github.com/ShafiiRJuma/30-Days-Challenge-Data-Analysis/blob/main/DayThreeScreenshots/DRLeadingCausesPerState1.jpg) 
+![Leading Causes of Death per State](https://github.com/ShafiiRJuma/30-Days-Challenge-Data-Analysis/blob/main/DayThreeScreenshots/DRPVLeadingCausePerState1.jpg) 
 
    - **Leading Causes of Death by Year**: I cleared previous selections and added "Year," "Cause Name," and "Deaths" to see the primary causes of death each year from 1999 onwards.
 
-![Leading Causes of Death per Year](https://github.com/ShafiiRJuma/30-Days-Challenge-Data-Analysis/blob/main/DayThreeScreenshots/DRPVLeadingDeathCausesPerYear.jpg)
+![Leading Causes of Death per Year](https://github.com/ShafiiRJuma/30-Days-Challenge-Data-Analysis/blob/main/DayThreeScreenshots/DRPVLeadingDeathCausePerYear.jpg)
 
 5. **Trend Analysis of Heart Disease Deaths**  
    Observing that heart disease was a major cause of death, I examined its trend over the years. By filtering for "Heart Disease" in "Cause Name" and plotting "Year" and "Deaths," I created a chart that displayed this trend.
