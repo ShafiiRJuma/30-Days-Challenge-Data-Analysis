@@ -7,10 +7,15 @@
 There is so much to learn on Microsoft Excel and i only have 6 Days to go finishing everything on Excel, today i took a challenge on Exploratory Data Analysis using Pivot Table which is one of the powerful skills to have as the Data Analyst. I used a dataset i obtained while taking a short course on [Descriptive Statistics and Exploratory Data Analysis](https://careerfoundry.com/en/tutorials/data-analytics-for-beginners/descriptive-statistics-and-exploratory-data-analysis) on careerfoundry website. This dataset contains information about Bike rental in New York City. There is so much useful business insights can be obtained from this dataset but here were my curious questins i wanted to uderstand from the dataset.
 
 **What Day sees the most bike rental?:** It's necessary to understand Days that have high volume of bike rental in business as it will directly inform the company how to locate resources on those peak days including staffing, maintainance but also Marketing to target those days. Another angle is to see how to improve bike rentals on days that see less volume by various methods such discounts.
+To do this i utilized Pivot Table to create a table with two columns Days and Daily Bike Rental (Counting number of bikes rented in a particular day)
+Here is the graph that shows the result.
 
-**What season sees the most bike rental?:** Similar to the question above but this one gives a company a broader view of what season there are peak rents so that company can prepare for seasonal fluctuations, ensuring optimal bike availability also properly scheduling bike maintainance.
+![Trend of Bike Rental On a Daily Basis](https://github.com/ShafiiRJuma/30-Days-Challenge-Data-Analysis/blob/main/DayFourScreesnShots/BRDaily.jpg)
 
 **What Age group rent bike the most?:**  Identifying the most active age group helps tailor marketing strategies and promotions to the demographic most likely to use the service, Knowing the age group can also help inform product offerings, such as bikes with added comfort features for older riders or trendy designs for younger customers.
+Here is the graph showing the results:
+
+![Trend of Bike Rental On a Daily Basis](https://github.com/ShafiiRJuma/30-Days-Challenge-Data-Analysis/blob/main/DayFourScreesnShots/BRAgeGroup.jpg)
 
 **Which station experience most bike rental in New York City?:** Knowing where rentals are most frequent can assist in locating bike stations in high-demand areas, improving accessibility, and increasing rentals. The business can also develop location-based promotions or partner with local businesses, targeting areas with high foot traffic or tourist appeal.
 
