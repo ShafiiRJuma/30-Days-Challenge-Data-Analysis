@@ -19,9 +19,9 @@ Here is the graph showing the results:
 
 **Which station experience most bike rental in New York City?:** Knowing where rentals are most frequent can assist in locating bike stations in high-demand areas, improving accessibility, and increasing rentals. The business can also develop location-based promotions or partner with local businesses, targeting areas with high foot traffic or tourist appeal.
 
-**What are the Peak Hours in a day?:** This also adds up to the company understanding how to allocate their resources in peak times.
+![Trend of Bike Rental On a Daily Basis](https://github.com/ShafiiRJuma/30-Days-Challenge-Data-Analysis/blob/main/DayFourScreesnShots/BRStation.jpg)
 
-**Bike Rental Trends in January, February, and March:** Looking at the rental trend between these three month will alert the business to compare their perfomance in these three month, seeing wehther they are growing or not, and what to improve if growth seems not happening.
+
 
 **Dataset Description**  
 
