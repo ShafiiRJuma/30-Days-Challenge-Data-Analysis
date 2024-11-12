@@ -11,11 +11,27 @@ The dashboard i created contained Top 10 Streamed Artist and Top 10 Streamed Son
 
 **How I created this Dashboard**
 To create a dashaboard in Microsoft Excel you kind have a knowledge working with PivotTables as through that you just copy and paste the PivotChat into your dahsboard and optimize it to have that aesthetic look.
+
+![dataset](https://github.com/ShafiiRJuma/30-Days-Challenge-Data-Analysis/blob/main/DayFiveScreenshots/SPRaw.jpg)
+
 **Step 01**
 After opening my dataset i verified that my data was clean and had no issues, after that i converted my dataset into a table for easier sorting and formatting, quick calculations like sums, average and counts.
 
+![table](https://github.com/ShafiiRJuma/30-Days-Challenge-Data-Analysis/blob/main/DayFiveScreenshots/SPTable.jpg)
+
 **Step 02**
 After converting my dataset into a table then i created a pivot table and started a new workbook for my pivot table.
+![pivot table](https://github.com/ShafiiRJuma/30-Days-Challenge-Data-Analysis/blob/main/DayFiveScreenshots/SPPivotTable.jpg)
+
+**Step 03**
+On my pivot table workbook i filtered only data that involved *Top 10 Most streamed Songs* by checking Track Name and Streams then filter only to show top 10
+
+**Step 04**
+Choice of the Chart, this usually depends with the data available but definetly acocrding to the data that i want to show top 10 streamed songs Bar Charts is the right choice for this type. To add a chart i clicked on my pivot table -> then clicked Pivot Table Analyze -> then Pivot Table where i was presented with number of choices to choose from and selected Bar Chart.
+
+**Step 05**
+After creating a Bar Chart of my liking and having it reflecting top 10 streamed songs i copied the chart and pasted it on my new workbook whihc i labeled Dahsboard. Then repeated the same process for the Top Streamed Artists on Spotify.
+
 **Learning Outcome:**  
 
 
