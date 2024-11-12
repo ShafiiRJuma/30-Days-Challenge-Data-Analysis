@@ -38,6 +38,8 @@ Given the data I wanted to display, I selected a Bar Chart, which visually highl
 
 #### **Step 5: Dashboard Creation**
 I copied my newly created Bar Chart into a dedicated "Dashboard" sheet. I repeated these steps for the "Top Streamed Artists" to complete the dashboard, giving it a cohesive and user-friendly design.
+My final dashaboard aint looking as aesthetic as some are, but i believe in the coming five days perfecting my dashboards will have the best looking dashaboard than this.... 
+![Final](https://github.com/ShafiiRJuma/30-Days-Challenge-Data-Analysis/blob/main/DayFiveScreenshots/SPDashboard.jpg)
 
 ### **Learning Outcome:**
 Today’s practice gave me foundational experience in creating Excel dashboards using PivotTables and PivotCharts. I am now more confident in Excel’s dashboarding capabilities and excited to refine my skills in the coming days!
