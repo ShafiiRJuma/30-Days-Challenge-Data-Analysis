@@ -30,5 +30,7 @@ This dashboard aims to provide actionable insights for marketing managers or any
 ### Challenges with the Dataset
 One challenge with this fictional dataset is that the averages and other calculated metrics show minimal variance, making differentiation between elements difficult. To address this, I focused on highlighting only the most notable insights on the dashboard.
 
+![Marketing Dashboard](https://github.com/ShafiiRJuma/30-Days-Challenge-Data-Analysis/blob/main/DaySevenScreenshots/DB2.jpg)
+
 ### Learning Outcome
 Creating this dashboard required me to approach the data from a managerial perspective, focusing on actionable insights. This exercise enhanced my ability to ask the right questions of the data and to design visualizations that guide users to meaningful conclusions. I’m excited to continue developing dashboards with real-world impact that provide clear and useful information to stakeholders.
