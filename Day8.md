@@ -8,7 +8,7 @@ Today is my first day in my entire life to open Power BI, not once in my life ev
 
 ### Challenge OVverview
 I stumbled upon this Virtual Internship on forage where you can practice Data Visualization by solving the real world problems, now i started and Boom first assignment to create a dashboard for the call center. Here is the background story of the challenge overview as it was assigned.
-![Screenshot](https://github.com/ShafiiRJuma/30-Days-Challenge-Data-Analysis/blob/main/DayEightScreenshots/Screen Shot 2021-06-15 at 5.23.06 PM.jpg)
+![Screenshot]([https://github.com/ShafiiRJuma/30-Days-Challenge-Data-Analysis/blob/main/DayEightScreenshots/Screen Shot 2021-06-15 at 5.23.06 PM.jpg](https://github.com/ShafiiRJuma/30-Days-Challenge-Data-Analysis/blob/main/DayEightScreenshots/Screen%20Shot%202021-06-15%20at%205.23.06%20PM.png))
 
 ### Thought Process
 Despite the fact is was guided to present to create a dashboard that shows KPIs to help Claire visualize Key Mnetrics. This is how i thought on what to includ eon my dashboard.
@@ -18,6 +18,10 @@ Despite the fact is was guided to present to create a dashboard that shows KPIs 
 4. Customer Satisfaction: On the scale of 1-5 each answered call customer rate on the level of satisfaction they receieved, now this gives a clear picture whether the answered calls were really answering client's problems or otherwise and how to improve customer satisfaction.
 5. Trend of ANswered calls and abandoned on a monthly basis.
 
-From this here is my dashboard that i created and submitted for review.
+From this here are my dashboards that i created and submitted for review.
+![](https://github.com/ShafiiRJuma/30-Days-Challenge-Data-Analysis/blob/main/DayEightScreenshots/OverallDashboard.jpg)
+![](https://github.com/ShafiiRJuma/30-Days-Challenge-Data-Analysis/blob/main/DayEightScreenshots/BeckyDashboard.jpg)
+![](https://github.com/ShafiiRJuma/30-Days-Challenge-Data-Analysis/blob/main/DayEightScreenshots/MonthlyDashboard.jpg)
+![](https://github.com/ShafiiRJuma/30-Days-Challenge-Data-Analysis/blob/main/DayEightScreenshots/GregInJanuary.jpg)
 ### Learning Outcome
 Power BI seems to be a great analysis and visualization tool in deed and i can't wait to keep working and making insightful and helpful analysis of data through this Tool.
