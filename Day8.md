@@ -8,7 +8,7 @@ Today is my first day in my entire life to open Power BI, not once in my life ev
 
 ### Challenge OVverview
 I stumbled upon this Virtual Internship on forage where you can practice Data Visualization by solving the real world problems, now i started and Boom first assignment to create a dashboard for the call center. Here is the background story of the challenge overview as it was assigned.
-![]()
+![Screenshot](https://github.com/ShafiiRJuma/30-Days-Challenge-Data-Analysis/blob/main/DayEightScreenshots/Screen Shot 2021-06-15 at 5.23.06 PM.jpg)
 
 ### Thought Process
 Despite the fact is was guided to present to create a dashboard that shows KPIs to help Claire visualize Key Mnetrics. This is how i thought on what to includ eon my dashboard.
