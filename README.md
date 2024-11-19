@@ -7,4 +7,4 @@ To ensure mastery, I’ve dedicated 10 days to each tool, committing 4 hours per
 
 Join me on this journey and follow along as I work through this 30-day challenge. 
 By the end of the month, we'll see just how much we can accomplish and apply the skills we've gained. 
-Let's learn and grow together!
+Let's learn and grow together on this journey of becoming Data Analyst.
